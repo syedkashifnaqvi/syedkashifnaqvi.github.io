@@ -45,6 +45,7 @@ hr {
 
 img {
     border: 4px solid white;
+    width: 15%;
 }
 
 @media only screen and (max-width:550px) {
@@ -135,7 +136,7 @@ a img {
     position: absolute;
     font-family: 'Rubik', sans-serif;
     width: 80%;
-    top: 40%;
+    top: 42%;
     left: 50%;
     margin: 0 auto;
     -webkit-transform: translate(-50%, -50%);
@@ -161,21 +162,13 @@ a img {
 }
 
 .header .site-description {
-    font-size: 20px;
-    display: block;
-    line-height: 1;
-    color: #fff;
-    margin-top: 10px;
-}
-
-@media only screen and (min-width:550px) {
-    .header .site-description {
-        font-size: 40px;
-    }
+    text-align: left;
+    margin: 5px auto;
+    width: 80%;
 }
 
 .header-links {
-    margin-top: 32px;
+    margin-top: 16px;
 }
 
 .header-links .link {
@@ -202,7 +195,7 @@ a img {
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top:32px;
+    margin-top: 16px;
 }
 
 .icon-tooltip {
