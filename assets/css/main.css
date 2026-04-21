@@ -164,12 +164,16 @@ a img {
 
 @media only screen and (max-width:550px) {
     .header {
-        top: 45%;
+        top: 50%;
     }
 
     .header .site-description {
         font-size: 14px;
         width: 100%;
+    }
+
+    .down {
+        display: hide;
     }
 }
 
