@@ -186,13 +186,6 @@ a img {
     }
 }
 
-@media only screen and (max-width:550px) {
-    .header-links {
-        display: flex;
-        flex-direction: column;
-    }
-}
-
 .header-icons {
     display: flex;
     justify-content: center;
