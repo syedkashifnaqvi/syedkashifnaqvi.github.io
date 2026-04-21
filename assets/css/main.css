@@ -172,7 +172,7 @@ a img {
         width: 100%;
     }
 
-    .down {
+    .down .icon{
         display: none;
     }
 }
