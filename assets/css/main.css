@@ -173,7 +173,7 @@ a img {
     }
 
     .down {
-        display: hide;
+        display: none;
     }
 }
 
