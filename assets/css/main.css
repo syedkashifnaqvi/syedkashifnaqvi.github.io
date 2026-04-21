@@ -162,6 +162,12 @@ a img {
     width: 80%;
 }
 
+@media only screen and (max-width:550px) {
+    .header .site-description {
+        font-size: 14px;
+    }
+}
+
 .header-links {
     margin-top: 16px;
 }
