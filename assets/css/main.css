@@ -107,7 +107,7 @@ a img {
     border: 0
 }
 
-#particles-js {
+#main {
     background: #1488CC;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
@@ -122,11 +122,6 @@ a img {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed
-}
-
-#particles-js .particles-js-canvas-el {
-    width: 100% !important;
-    height: 100vh !important
 }
 
 .header {
